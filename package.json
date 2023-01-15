@@ -1,0 +1,22 @@
+{
+  "name": "hr-atm",
+  "version": "1.0.0",
+  "description": "A simple atm using typescript and Node Js.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ATM"
+  ],
+  "author": "Haris",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "@types/readline-sync": "^1.4.4",
+    "readline-sync": "^1.4.10"
+  }
+}
